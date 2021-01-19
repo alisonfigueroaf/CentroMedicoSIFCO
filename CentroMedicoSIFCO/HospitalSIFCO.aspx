@@ -16,6 +16,7 @@
     background-color: white }
   h1 {
     font-family: Verdana;
+
       color: white;
     background-color: darkblue }
    h2 {
